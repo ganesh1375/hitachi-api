@@ -1,0 +1,19 @@
+{
+  "name": "hitachi-api",
+  "version": "1.0.0",
+  "description": "Test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nothing"
+  },
+  "keywords": [
+    "test",
+    "repo"
+  ],
+  "author": "Ganesh Shivarathri",
+  "license": "MIT"
+}
